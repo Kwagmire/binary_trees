@@ -2,6 +2,10 @@
 #define _BINARY_TREES_H_
 
 
+/* Standard Libararies */
+#include <stdlib.h>
+#include <stdio.h>
+
 /* Basic Binary Tree */
 
 /**
